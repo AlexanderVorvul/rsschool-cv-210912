@@ -3,7 +3,7 @@ body {
     color: black;  
 }
 
-header{
+.centered-text{
   text-align: center;
 }
 
@@ -23,7 +23,7 @@ hr{
     color: black;
     size: 2px;
 }
-.centered {
+.centered-block {
   width: 76%;
   margin: 0 auto;
 }
