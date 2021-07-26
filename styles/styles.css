@@ -1,8 +1,6 @@
 body {
-    font-family: Verdana;
+    font-family: Verdana, sans-serif;
     color: black;  
-    width: 76%;
-    margin: 0 auto;
 }
 
 header{
@@ -24,6 +22,10 @@ td {
 hr{
     color: black;
     size: 2px;
+}
+.centered {
+  width: 76%;
+  margin: 0 auto;
 }
 
 .section-header {
