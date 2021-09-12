@@ -54,6 +54,7 @@ November 2011: | *Business Analysis training, Hi-Tech Park Belarus*
 September 2011: | *JIRA Training, Hi-Tech Park Belarus*
 March 2011: | *Agile Project Management (SCRUM), Hi-Tech Park Belarus*
 Spring 2010: | *EPAM Java Training, EPAM Systems*
+September 2021: | [*JS/FE PRE-SCHOOL (JAVASCRIPT), THE ROLLING SCOPES SCHOOL*](https://app.rs.school/certificate/lbev1tzb)
 
 ### Education
 
